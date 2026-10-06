@@ -17,14 +17,20 @@ header {
 
 }
 
+nav{
+    margin: 2em auto;
+}
+
 h1 {
     color: crimson;
     font-size: 3em;
-    margin: 0
+    margin: 0;
 }
 
 header p{
     font-size: 1.2em;
+    color: crimson;
+    
 }
 main {
     padding: 30px;
@@ -37,6 +43,14 @@ section {
     margin-bottom: 20px;
 }
 
+.uno {
+    background-color: aquamarine;
+}
+
+.dos {
+    background-color: rgb(255, 217, 0);
+}
+
 h2 {
     font-size: 1.5rem;
 }
@@ -44,9 +58,14 @@ h2 {
 
 p{
     line-height: 1.5;
+    color: rgba(0, 85, 255, 0.823);
 }
 
 footer {
     padding: 20px;
     text-align: center;
+}
+
+#pie {
+    font-size: 2em;
 }
