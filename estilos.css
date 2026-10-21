@@ -28,6 +28,23 @@ h1 {
     margin: 10px 0;
 }
 
+nav{
+    background-color: #d7ff3f;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a{
+    color: #171717;
+    font-weight: 700;
+    text-decoration: none;
+    margin: 0 12px;
+}
+
+nav a:hover{
+    color: rgb(247, 32, 200)
+}
+
 main {
     max-width: 900px;
     margin: auto;
@@ -61,6 +78,24 @@ ol {
 
 li {
     margin-bottom: 8px;
+}
+.excusa{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 16px;
+}
+
+.excusa h3{
+    color: #b00020;
+    margin-top: 0;
+}
+#estado{
+    background-color: #171717;
+    color: ghostwhite;
+}
+
+#estado h2{
+    color: ghostwhite;
 }
 
 footer {
