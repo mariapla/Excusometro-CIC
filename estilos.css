@@ -51,6 +51,18 @@ main {
     padding: 40px 30px;
 }
 
+main a {
+    color: crimson;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+main a:hover {
+    color: #171717;
+    text-decoration: underline;
+}
+
+
 section {
     background-color: #ffffff;
     margin-bottom: 24px;
