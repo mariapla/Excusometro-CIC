@@ -149,3 +149,7 @@ footer p {
     background-size: cover;
     background-position: center;
 }
+
+video{
+   max-width: 100%;
+}
